@@ -40,6 +40,7 @@ Review the available scripts in the [package.json](package.json)
 2. Install  node modules
 
 `npm install`
+
 3. Application will run on [localhost:4200](http://localhost:4200)
 
 `npm run start-dev`
